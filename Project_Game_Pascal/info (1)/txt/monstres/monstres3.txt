@@ -1,0 +1,17 @@
+1
+Rapide
+60
+
+3
+Intelligent
+40
+
+331
+Intelligent
+1000
+
+5
+Intelligent
+100
+ 
+

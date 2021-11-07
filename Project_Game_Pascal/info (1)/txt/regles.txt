@@ -1,0 +1,22 @@
+ALAKAZAM est un jeu basé sur une suite de choix et de combats.
+
+Entrez 1 ou 2 pour faire un choix.
+
+Tout au long du jeu, vous pourrez trouver des objets.
+(clé, potion ou arme). 
+
+Si vous vous battez, des chiffres entre 1 et 6 défilent. 
+Appuyez sur une touche du clavier pour arrêter ce dé.
+Le chiffre obtenu determinera l'issue du tour du combat.
+Le combat se termine à la mort de l'ennemi, ou la votre.
+
+Si vous fuyez, vous avez 15s pour trouver la sortie (~) du labyrinthe.
+Utilisez les flèches du clavier pour vous déplacer.
+
+Tous vos choix influeront sur la fin obtenue. 
+Celles ci seront enregistrées et disponibles dans le menu.
+
+La sauvegarde est automatique.
+
+Amusez vous bien !
+

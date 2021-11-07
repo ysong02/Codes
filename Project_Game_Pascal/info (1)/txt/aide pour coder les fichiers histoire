@@ -1,0 +1,27 @@
+@ combat
+
+# mort ou echec
+
+; choix
+                                            
+* victoire
+
+!num rejoindre
+
+/num recuperation objet 1cle 2arme 3 potion
+
+$ besoin clé
+
+1 choix 1
+
+2 choix 2
+
+3 succès combat
+
+4 fuite
+
+5                                                                                post recuperation objet
+
+6 succes clé
+
+7 echec clé 

@@ -1,0 +1,92 @@
+0 Test des fonctionnalités du jeu. (1):Combat. (2):Pas de combat.
+;
+
+1 Vous avez choisi le combat. 
+@
+
+2 Vous avez choisi de ne pas combattre.
+!13
+
+14 Fuite réussie
+!13
+
+13 (1): Recuperer une arme. (2) Recuperer une potion.
+;
+
+131 Arme récupérée.
+/2
+
+1315 Choix suivant.
+!3
+
+132 Potion récupérée.
+/3
+
+1325 Choix suivant.
+!3
+
+3 Test reprendre le même objet ou en prendre un autre: (1)Arme. (2)Potion.
+;
+
+31 Arme récupérée.
+/2
+
+32 Potion récupérée.
+/3
+
+315 Choix suivant.
+!4
+
+325 Choix suivant.
+!4
+
+4 (1):Combat. (2):Pas de combat.
+;
+
+41 Vous avez choisi le combat.
+@
+
+414 Fuite réussie.
+!413
+
+42 Vous avez choisi de ne pas combattre.
+!413
+
+413 (1)Prendre une clé. (2)Ne pas prendre la clé.
+;
+
+4131 Clé récupérée.
+/1
+
+41315 Choix suivant.
+!5
+
+4132 Clé non récupérée.
+!5
+
+5 (1)Tester la clé. (2)Ne pas tester la clé.
+;
+
+51 Vous avez besoin de la clé.
+$
+
+516 Vous aviez une clé: succès.
+!6
+
+517 Vous n'aviez pas de clé : échec.
+!6
+
+52 Vous ne testez pas le fonctionnement de la clé.
+!6
+
+6 (1)Victoire. (2)Echec.
+;
+
+61 Vous avez choisi la victoire.
+*
+
+62 Vous avez choisi l'echec (scolaire).
+#
+
+
+

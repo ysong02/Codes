@@ -1,0 +1,93 @@
+0 Your country is being invaded by Germany.You organized a demonstration to protest. Unlukily, you meet a group of German patrols with weapons. You want to (1) Lead everyone to revolt and fight or(2) Avoid the violence?
+;
+
+1 You yell :"Vive la france!" and then rush towards the enemies.
+@
+
+13 You hit them off but everyone is still in danger since enemies may come at anytime. You disband your group and then decide to visit your teacher, who always supports you and gives you ideas. 
+!130
+
+14 You have no choices but to ask for your teacher's help, who always supports you.
+!130
+
+130 He then suggests you to become a spy. Your teacher is already in this secret organization and he says that they need you. Do you agree(1) or not(2)?
+;
+
+1301 As a spy, please remember: FORGET WHO YOU WERE! You are now a "traitor" in others' eyes!!! (Vous etes un "traitre" !!!)
+!2210
+
+1302 You refused him.You are then sent to a jumping-off by the secret organization, in order to make sure you can not spill the beans.
+#
+
+2 No one is injured thanks to your great organization. But the patrols arrest you since they notice that you are the leader of this team. Do you want to protest(1) or give up the resistance(2)?
+;
+
+21 You are just one person and you want to fight with a group of enemies??? Besides, they all have weapons and you have nothing!!! Think carefully before making decisions!
+#
+
+22 You are in prison. The death penalty will be imposed tomorrow. At night, your teacher comes and says that you could pretend to be a "traitor", but actually a spy in your country's secret organization. Do you agree with this idea(1) or not(2)?
+;
+
+221 As a spy, please remember: FORGET WHO YOU WERE! You are now a "traitor" in others' eyes!!! (Vous etes un "traitre" !!!)
+!2210
+
+222 You say:"I don't want to be insulted and finally die as a traitor in others' eyes, I would rather die in prison!" Congratulations! You finally die in the prison and do nothing for your country.
+#
+
+2210 You are now working for German government. People call you a traitor but you can't say anything. Today, your teacher's daughter(your best friend) finds you and ask if this rumor is true. You decide to (1)tell her everything (2)ignore her.
+;
+
+22101 Thanks to your decision, both of you are not safe anymore. You are sent to an unknowm place by the secret organization, in order to make sure you can not spill the beans. Your teacher is quite disappointed in you.
+#
+
+22102 You say nothing but look at her, a "traitor" does not have a friend. She gives you some medicine and says:"Take care." She then leaves and you know she will never come back.
+/3
+
+221025 You reserve the medicines in your pocket, as a final gift for this relationship.
+!3
+
+3 You have been working hard to gain Germans' trust. At the same time, you receive the mission from your teacher to assassinate a real traitor. Get ready to fight!
+@
+
+33 You achieved your mission. Just one day later, the chef asks you to go out with him. after arriving the destination, you find it is your teacher's house. Maybe something will happen, you decide to (1)flee or (2) still follow the chef?
+;
+
+34 You didn't finish the mission and this traitor tells Germans that you are a spy. You are soon killed by Germans. Do not give others chance to kill you! You must achieve your mission!
+#
+
+331 The chef realized, since the traitor you killed already told him the secret of your teacher. He brought you here to test whether you are a partner or not. But you failed to disguise. You have no choice but fight with the chef.
+@
+
+3314 You run away but your teacher is killed by the chef. You failed to be a spy. You could just hide yourself during the rest of your life. You regret much for escaping but your game is OVER.
+#
+
+332 He entered your teacher's house and said that he found your teacher is a spy. He wants you to help him kill your teacher. He gives you a pistol, you raise it and pointed at (1)the chef (2)the teacher.
+;
+
+3321 You fired at the chef but found no bullets. It is just a test for you but you failed it. The chef is so angry that you are killed immediately. It is not easy to be a spy, try to think more before you make every decision.
+#
+
+3322 You remember what the teacher told you before: YOU ARE A TRAITOR in others' eyes. Do what traitor will do. You fired at your teacher but found no bullets. It was just a test and congraatulations you passed it!
+!4
+
+4 The chef was satisfied and trust you more. He gives you that pistol as a gift. You reserve it and think that you will kill him one day, using this pistol.
+/2
+
+45 You carefully keep the pistol.
+!5
+
+5 the chance finally comes. The chef and you are on a business trip and there is no one around him. You are ready to kill him.
+@
+
+53 You killed him and the whole team is in a panic. You have made a huge contribution to the country. But it is not the end, we know that the unknown hero will continue his legend...
+*
+
+54 You run away but the soldiers gather around, you are killed by them. What a pity! So closed to the victory!
+#
+
+
+
+  
+ 
+
+

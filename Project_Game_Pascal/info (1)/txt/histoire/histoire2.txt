@@ -1,0 +1,199 @@
+0 Votre avion vient de se crasher sur une île au milieu de l'Atlantique. Vous semblez être le seul survivant de cette catastrophe. Vous devez maintenant essayer de survivre seul.
+!1
+
+1 Voulez vous fouiller les débris (1) ou partir explorer l'île (2) ?
+;
+
+11 Vous trouvez un objet tranchant qui peut vous servir d'arme dans l'une des valises à côté de l'aile de l'avion.
+/2
+
+115 Vous commencez à entendre un léger sifflement. Voulez vous continuer à chercher (1) ou partir explorer (2) ?
+;
+
+1151 Vous trouvez une potion dans un chariot près de la cabine de pilotage.
+/3
+
+11515 Le sifflement devient plus insistant. Voulez vous continuer à chercher (1) ou partir explorer (2) ?
+;
+
+115151 Le sifflement se transforme soudainement en un bruit sourd. La cabine de pilotage explose violamment. Vous ne survivez pas à l'explosion. 
+#
+
+12 Vous decidez de partir explorer l'île.
+!3
+
+1152 Vous decidez de partir explorer l'île.
+!3
+
+115152 Vous decidez de partir explorer l'île.
+!3
+
+3 Derrière vous, l'avion explose. Voulez vous maintenant aller vers la plage pour construire un abris (1) ou dans la forêt pour chercher de quoi manger (2) ? 
+;
+
+31 Vous construisez un petit abris pour passer la nuit. Voulez vous allumer un feu (1) ou vous endormir (2) ? 
+;
+
+311 Vous allumez un petit feu pour vous rechauffer.
+!4
+
+312 Vous n'allumez pas de feu. Dans la nuit, vous mourrez d'hypothermie.
+#
+
+32 Alors que vous chercher de la nourriture dans la forêt, vous tombez nez à nez avec un animal sauvage.
+@
+
+323 Après avoir achevé l'animal, vous decidez qu'il sera un excellent repas. Vous vous dirigez vers la plage.
+!5
+
+324 Vous semez l'animal. Vous trouvez des baies dans un buisson. Voulez vous prendre les rouges (1) ou les jaunes (2) ?
+;
+
+3241 Elles sont toxiques. Vous mourrez dans d'affreuses souffrances.
+#
+
+3242 Vous récupérez de la nourriture et vous vous dirigez vers la plage.
+!5 
+
+5 Voulez vous allumer un feu (1) ou vous endormir (2) ?
+;
+
+52 Vous n'allumez pas de feu. Dans la nuit, vous mourrez d'hypothermie.
+#
+
+51 Vous allumez un feu. Une ombre s'approche de vous. C'est un homme, avec une lance en bois dans la main. Il ne semble pas parler votre langue.
+!53
+
+53 Voulez vous partager votre nourriture avec lui (1) ou finir votre repas (2) ?
+;
+
+531 L'homme à l'air content. Après le repas, il vous emmène voir le chef de sa tribu. Il décide de vous prendre sous son aile. Vous vivez la fin de vos jours heureux avec vos nouveaux amis.
+*
+532 L'homme vous regarde avec dégoût. Il pointe sa lance vers vous. 
+@
+
+5323 L'homme est inconscient. Vous trouvez une clé autour de son cou.
+/1
+
+53235 Vous decidez d'aller dans la forêt pour se reste de la nuit.
+!6
+
+5324 Vous vous courrez en direction de la forêt et vous tribuchez sur un serpent.
+@ 
+
+53243 Après avoir repoussé le serpent, vous voyez des lumières au loin. C'est un campement rempli d'hommes ressemblant à celui qui vous a attaqué.
+!7
+
+53244 Vous vous retournez pour fuire mais l'homme vous bloque le passage. Vous n'avez plus d'issue. 
+#
+
+4 Une ombre s'approche de vous. Soudain, un homme vous menace avec une lance.
+@
+
+43 L'homme est inconscient. Vous trouvez une clé autour de son cou.
+/1
+
+435 Vous decidez d'aller dans la forêt pour se reste de la nuit.
+!6
+
+44 Vous commencez à courrir. Voulez vous longer la plage (1) ou aller dans la forêt (2) ?
+;
+
+441 Au loin, vous voyez un bateau. Voulez vous lui faire signe (1) ou continuer à courir (2) ?
+;
+
+4411 Vous essayez de vous faire remarquer par le bateau. Malheurement, l'homme à la lance vous rattrape. Il vous tue.
+#
+
+4412 Vous continuez à courir puis vous vous cachez à la limite de la forêt. Vous attendez quelques minutes puis vous retournez vers la plage. 
+!4413
+
+4413 Cette fois, vous faîtes de grands signes en direction du bateau. Les marins vous voient et se rapprochent de la plage, mais vous devez les rejoindre à la nage.
+!4414
+
+4414 Malheuresement, après quelques mètres dans l'eau, un requin vous barre la route.
+@
+
+44143 Vous réussissez à rejoindre les marins. Ils vous ramènent vers la civilisation.
+*
+
+44144 Vous arrivez à fuire le requin. Vous montez sur le bateau. Les marins vous ramènent vers la civilisation.
+*
+
+442 Vous vous réfugiez dans la forêt pour la nuit.
+!6
+
+6 Vous grimpez en haut d'un arbre et vous endormez. Le lendemain, vous vous réveillez et vous voyez au loin un campement. Vous décidez de vous y rendre.
+!61
+
+61 Voulez vous prendre le chemin de gauche (1) ou le chemin de droite (2) ?
+;
+
+611 Vous trouvez une potion sur votre route.
+/3
+
+6115 Vous arrivez près du campement. Il est rempli d'hommes ressemblants à celui qui vous a attaqué.
+!7
+
+612 Vous arrivez près du campement. Il est rempli d'hommes ressemblants à celui qui vous a attaqué.
+!7
+
+7 Derrière l'un des abris, vous voyez une malle portant les inscriptions 'RADIO COMMUNICATION'. Elle semble provenir des débris de l'avion. 
+!70
+
+70 Voulez vous vous approcher discrètement de la malle(1)  ou aller à la rencontre des hommes du campement pour demander de l'aide (2) ? 
+;
+
+701 Vous decidez d'aller vers la malle. Elle est fermée à clé
+$
+
+7016 Vous prenez la malle discrètement et vous retournez dans la forêt. Vous utilisez votre clé et vous appelez à l'aide. Quelques heures plus tard, vous êtes en sécurité dans un bateau.
+*
+
+7017 Vous essayez quand même de forcer pour ouvrir la malle mais l'un des membres de la tribu vous entend.
+!8
+
+702 Vous vous approchez de l'un des membres de la tribu. Celui ci ne vous laisse meme pas le temps d'ouvrir la bouche.
+!8
+
+8 Il vous emmène dans le plus grand des abris, pour vous livrer à son chef. 
+@
+
+83 Après avoir vaincu le chef de la tribu, vous devenez le nouveau chef. Vous vivez une vie épanouie sur votre île.
+*
+
+84 Vous commencez à courir mais vous vous retrouvez vite sans issue. La lacheté n'était pas une solution. Vous êtes abattu par le chef de la tribu
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
