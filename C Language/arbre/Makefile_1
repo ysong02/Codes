@@ -1,0 +1,4 @@
+all: arbre.o
+
+arbre.o: arbre.c arbre.h arbre_type.h
+	gcc -c arbre.c -o arbre.o
