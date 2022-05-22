@@ -24,7 +24,3 @@ You can move the ship using the keys ← et → of your keyboard and fire with s
 ## Read the subject
 
 A file `subject.pdf` containing the walkthrough of the project is available.
-
-## Start coding !
-
-Gl & hf
